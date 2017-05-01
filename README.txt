@@ -17,7 +17,7 @@ fresh_tomatoes.py
 media.py
 
 If any file missing you can download it from:
-https://github.com/Alshimaa94/Movie-Trailer-websit-
+https://github.com/Alshimaa94/Movies
 
 you can contact me for any problem 
 shimamostafa344@gmail.com
